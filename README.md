@@ -14,7 +14,7 @@ A powerful AI application that analyzes squat exercises in real-time using compu
 To run this project, you must manually install and download components:
 
 ```bash
-##  1. Clone this repository
+# 1. Clone this repository
 git clone https://github.com/nshivani05/Injury-Risk-Predictor.git
 cd Injury-Risk-Predictor
 
