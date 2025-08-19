@@ -1,0 +1,15 @@
+mediapipe
+opencv-python
+numpy
+scipy
+pandas
+scikit-learn
+matplotlib
+torch
+torchvision
+torchaudio
+pyyaml
+streamlit
+fastapi
+uvicorn
+tqdm

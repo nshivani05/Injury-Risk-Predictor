@@ -1,0 +1,20 @@
+# Large model files
+models/
+
+# Your dataset files - DO NOT UPLOAD THESE!
+data/features/
+data/keypoints/
+data/videos/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Windows shortcuts
+*.lnk
