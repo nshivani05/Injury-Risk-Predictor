@@ -8,8 +8,6 @@ A powerful AI application that analyzes squat exercises in real-time using compu
 
 - **🚫 CLIP Model File (`ViT-B-32.pt` - 338MB)**: OpenAI's vision model must be downloaded automatically on first run
 - **🚫 Video Dataset**: Original squat videos (`*.mp4` files) are not included for privacy and size reasons
-- **🚫 Processed Data**: Extracted keypoints and features (`*.npy` files) are not included
-- **🚫 Trained Models**: Machine learning models (`*.joblib` files) are not included
 
 ## 📥 Manual Installation Required
 
